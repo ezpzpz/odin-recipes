@@ -1,0 +1,36 @@
+/*Index*/
+
+body {
+  background-color: aquamarine;
+}
+
+header,
+p,
+ul,
+ol{
+    font-family: sans-serif;
+}
+
+.mainHeader,
+.centered{
+    text-align: center;
+}
+
+.img {
+    width: 300px;
+    height: auto;
+}
+
+ul {
+    display: inline-block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    text-align: left;
+  }
+
+ol {
+    display: inline-block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    text-align: left;
+  }
